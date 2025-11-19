@@ -1,21 +1,4 @@
-## Hi there 👋
-
-<!--
-**busrakoyun/busrakoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- <h2 align="center">🪄✨💻 Tech Stack 💻✨🪄</h2>
+<h3 align="center" >✨💻 Tech Stack 💻✨</h3>
 
 <div align="center">
 
@@ -202,3 +185,16 @@ Here are some ideas to get you started:
   </tr>
 </table>
 </div>
+
+---
+<h4 align="center">🪄 Contact 🪄</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/busrakoyun/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 0 14px;"/>
+  </a>
+
+  <a href="mailto:busrakoyun99@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin: 0 14px;"/>
+  </a>
+</p>
