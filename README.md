@@ -1,5 +1,9 @@
-<h3 align="center" >✨💻 Tech Stack 💻✨</h3>
+<h2 align="center">🌷 Hi, I'm Büşra! 🌷</h2>
+<p align="center"><strong>Software Engineer & Deep Learning Enthusiast </strong><br>
+<em>Welcome — here’s a glimpse into the things I’m building and learning. 👩🏻‍💻</em>
+</p>
 
+<h3 align="center" >✨💻 Tech Stack 💻✨</h3>
 <div align="center">
 
 <table>
@@ -186,9 +190,7 @@
 </table>
 </div>
 
----
-<h4 align="center">🪄 Contact 🪄</h4>
-
+<h3 align="center">🪄 Contact 🪄</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/busrakoyun/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 0 14px;"/>
